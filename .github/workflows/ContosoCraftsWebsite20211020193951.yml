@@ -1,4 +1,4 @@
-name: Build and deploy .NET Core app to Windows WebApp ContosoCraftsWebsite20211020193951
+name: Build and deploy .NET Core app to Windows WebApp test124445562525626264
 on:
   push:
     branches:
