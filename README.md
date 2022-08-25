@@ -9,3 +9,4 @@
   To visit the website, hosted on Microsoft Azure app service, press this [website](https://contosocraftswebsite20211020193951.azurewebsites.net/).
 "# CONTOSO-WEB-APP" 
 "# contoso-nginx" 
+"# nginx-deploy-app-contoso" 
