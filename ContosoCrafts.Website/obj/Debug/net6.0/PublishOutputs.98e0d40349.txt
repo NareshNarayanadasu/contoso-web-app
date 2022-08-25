@@ -1,0 +1,7 @@
+C:\Users\NareshNarayanadasu\Desktop\contoso app test\CONTOSO-WEB-APP\ContosoCrafts.Website\bin\Debug\net6.0\publish\ContosoCrafts.Website.exe
+C:\Users\NareshNarayanadasu\Desktop\contoso app test\CONTOSO-WEB-APP\ContosoCrafts.Website\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\NareshNarayanadasu\Desktop\contoso app test\CONTOSO-WEB-APP\ContosoCrafts.Website\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\NareshNarayanadasu\Desktop\contoso app test\CONTOSO-WEB-APP\ContosoCrafts.Website\bin\Debug\net6.0\publish\ContosoCrafts.Website.dll
+C:\Users\NareshNarayanadasu\Desktop\contoso app test\CONTOSO-WEB-APP\ContosoCrafts.Website\bin\Debug\net6.0\publish\ContosoCrafts.Website.deps.json
+C:\Users\NareshNarayanadasu\Desktop\contoso app test\CONTOSO-WEB-APP\ContosoCrafts.Website\bin\Debug\net6.0\publish\ContosoCrafts.Website.runtimeconfig.json
+C:\Users\NareshNarayanadasu\Desktop\contoso app test\CONTOSO-WEB-APP\ContosoCrafts.Website\bin\Debug\net6.0\publish\ContosoCrafts.Website.pdb
