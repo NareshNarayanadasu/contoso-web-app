@@ -1,0 +1,2 @@
+﻿Access key ID,Secret access key
+AKIA47CRYU2QKUORPJA6,vw3KihRjsVDAEtXXx6IlSqjj5AJMe5tDKyeaXK30
